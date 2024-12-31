@@ -454,5 +454,29 @@
         "parts": [
             "Earphone: A small speaker that is inserted in the ear, used for listening to audio privately.  Often used in pairs.\n\n    Example 1: I use earphones to listen to music while I exercise.\n    Example 2:  Please use your earphones to avoid disturbing others. \n"
         ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "invocation"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Invocation: The act of calling upon a deity, spirit, or other entity for help, guidance, or inspiration. Can also refer to the beginning of a program, ritual, or meeting.\n\n    Example 1: The ceremony began with an invocation to the goddess of peace.\n    Example 2:  The software requires a specific invocation command to run.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Volcano"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Volcano: A rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.\n\n    Example 1: Mount Vesuvius is a famous volcano in Italy.\n    Example 2: The eruption of the volcano caused widespread devastation.  \n"
+        ]
     }
 ]

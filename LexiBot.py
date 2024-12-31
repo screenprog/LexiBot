@@ -1,8 +1,6 @@
 import os
 import google.generativeai as genai
-import historywriter as hw
-import historycreation as hc
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+
 
 # Create the model
 def lexiBot(user_input: str ,history: list):
@@ -14,6 +12,8 @@ def lexiBot(user_input: str ,history: list):
     "response_mime_type": "text/plain",
   }
 
+  genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+  
   model = genai.GenerativeModel(
     model_name="learnlm-1.5-pro-experimental",
     generation_config=generation_config,
@@ -56,20 +56,3 @@ def lexiBot(user_input: str ,history: list):
   if(model_response.endswith("\n\n")):
       model_response = model_response[:-2]
   return model_response
-
-
-
-history_file = "history.json"
-hc.history = hw.read_from_json(history_file)
-user_input = input("You: ")
-definition = hc.find_in_history(user_input)
-if definition:
-    print(definition)
-else:
-  model_response = lexiBot(user_input, hc.history[-5:])        
-  hc.create_history("user", user_input)
-  hc.create_history("model", model_response)
-  print("LexiBot:\n  "+ model_response)
-  hw.write_in_json(history_file, hc.history)
-
-    

@@ -15,7 +15,7 @@ def simulate_stream(model_response: str, chunk_size = 2, delay=0.02):
 st.title("LexiBot")
 history_file = "history-two.json"
 hc.history = hw.read_from_json(history_file)
-user_input = st.text_input("You: ")
+user_input = st.text_input("Words can be tricky, but I’m here to make them easy for you!", placeholder="Type...")
 if user_input:
   with st.container(height=500, border=True):
     definition = hc.find_in_history(user_input)

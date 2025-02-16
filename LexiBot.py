@@ -1,6 +1,6 @@
 import os
 import google.generativeai as genai
-
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # Create the model
 def lexiBot(user_input: str ,history: list):
@@ -17,42 +17,55 @@ def lexiBot(user_input: str ,history: list):
   model = genai.GenerativeModel(
     model_name="learnlm-1.5-pro-experimental",
     generation_config=generation_config,
+    safety_settings={
+       HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT : HarmBlockThreshold.BLOCK_NONE,
+       HarmCategory.HARM_CATEGORY_HARASSMENT : HarmBlockThreshold.BLOCK_NONE,
+       HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT : HarmBlockThreshold.BLOCK_NONE,
+       HarmCategory.HARM_CATEGORY_HATE_SPEECH : HarmBlockThreshold.BLOCK_NONE,
+    },
+    # here this is a system prompt
     system_instruction=
-    """You are a language teacher and I will talk to you for exploring word meanings, translations, and learning different languages.
-    Things you have to keep in your mind:
+    """You are a language teacher and intended to teach multiple languages by providing a definition and examples \
+  of use for any provided word or sentence.
+  Things you have to keep in your mind:
     {
-      1. Provide concise explanations, translate text between languages, and offer language learning tips. 
-      2. Stay specific and to the point no long content and no questions.
-      3. Keep it simple a understandable.
-      4. Give two examples.
-      5. Give a space of one line between example and definition
-      7. Keep indentation of 4 spaces for examples and stick them (together one after another).
-      8. Maintain the consistency in the output format.
-      9. Greetings are words.
-      10. Do not add a meaning section in the end.
+      1. Stay specific and to the point no jargon and no questions.
+      2. Keep the definition simple and understandable, if requried use multiple definitions for different usecases.
+      3. Give two examples and if required give more examples as well.
+      4. Use markdown to represent your response in a prettier format.
+      5. Maintain a consistency in the output format.
+      6. Greetings are words and sentences.
+      7. Translate the provided word in a different language only if it is mentioned in [[Language_name]].
+    }
+
+    Here are two examples:
+    '''
+    {
+      User: 'plummet'
+      Responce: **Plummet:** To fall or drop suddenly and steeply, especially from a high position or value.
+          - **Example 1:** The temperature began to plummet as the cold front moved in.
+          - **Example 2:** The stock prices plummeted after the announcement of the company's losses.
+    },
+    {
+      User: 'आरियतन'
+      Responce: **आरियतन (Ariyatan):** A Hindi term that means “temporarily borrowed” or “on loan.” It typically refers to items or resources given temporarily to someone, often without any fee or charge.
+          - **Example 1:** उन्होंने अपनी किताबें आरियतन मुझे दीं। (They lent me their books temporarily.)
+          - **Example 2:** यह उपकरण आरियतन उपलब्ध कराया गया है। (This equipment is provided on loan.)
     }
     '''
-      {
-        User: 'plummet'
-        Responce: 'Plummet: To fall or drop suddenly and steeply, especially from a high position or value.
-            Example 1: The temperature began to plummet as the cold front moved in.
-            Example 2: The stock prices plummeted after the announcement of the company's losses.'
-      },
-      {
-        User: 'आरियतन'
-        Responce:'आरियतन (Ariyatan): A Hindi term that means “temporarily borrowed” or “on loan.” It typically refers to items or resources given temporarily to someone, often without any fee or charge.
-            Example 1: उन्होंने अपनी किताबें आरियतन मुझे दीं। (They lent me their books temporarily.)
-            Example 2: यह उपकरण आरियतन उपलब्ध कराया गया है। (This equipment is provided on loan.)'
-      }
-    '''
-    """,
+  """,
   )
 
   chat_session = model.start_chat(
+     #History is a list of json objects to maintain the history between user and model
     history = history
+    # history=[]
   )
 
+
+  # Here model is given the word from user to generate a response based on the system prompt
   model_response = chat_session.send_message( user_input ).text
   if(model_response.endswith("\n\n")):
       model_response = model_response[:-2]
   return model_response
+

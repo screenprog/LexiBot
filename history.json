@@ -478,5 +478,329 @@
         "parts": [
             "Volcano: A rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.\n\n    Example 1: Mount Vesuvius is a famous volcano in Italy.\n    Example 2: The eruption of the volcano caused widespread devastation.  \n"
         ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Gita"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Gita: Often refers to the Bhagavad Gita, a 700-verse Hindu scripture that is part of the epic Mahabharata. It is a dialogue between Pandava prince Arjuna and his guide and charioteer Krishna.\n\n    Example 1: The Gita offers profound insights into dharma, karma, and moksha.\n    Example 2: Many people find inspiration and guidance in the teachings of the Gita.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Quran"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Quran: The central religious text of Islam, which Muslims believe to be a revelation from God (Allah). It is widely regarded as the finest work in classical Arabic literature.\n\n    Example 1: Muslims believe the Quran was revealed to the Prophet Muhammad.\n    Example 2: Reciting verses from the Quran is an important part of Islamic prayer.  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Hola"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Hola: A Spanish greeting that means \"hello\" or \"hi.\"\n\n    Example 1: \"Hola, \u00bfc\u00f3mo est\u00e1s?\" (Hello, how are you?)\n    Example 2: Maria waved and said, \"Hola!\" as she entered the room.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Okay"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Okay: An English word used to express agreement, acceptance, or acknowledgment. It can also be used to indicate that something is satisfactory or acceptable.\n\n    Example 1: \"Okay, I understand.\"\n    Example 2: \"Is everything okay?\" \"Yes, everything is okay.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Can we talk?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Can we talk?\" : An English phrase used to request a conversation, often implying a serious or private matter.\n\n    Example 1: \"Can we talk? I need some advice.\"\n    Example 2: He looked upset, so she asked, \"Can we talk?\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Which model are you?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Which model are you?\": An English question inquiring about the specific type or version of a system or product. In the context of AI, it asks about the specific AI model.\n\n    Example 1: \"Which model are you? Are you GPT-3?\"\n    Example 2: To troubleshoot the issue, we need to know \"Which model are you?\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Are you built by google"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Are you built by Google?\": An English question inquiring about the creator or developer of a particular system or product.  In the context of AI, it asks if Google developed the AI.\n\n    Example 1: \"Are you built by Google? Or by another company?\"\n    Example 2:  To understand your capabilities, I need to know, \"Are you built by Google?\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "What is this?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"What is this?\":  A general English question used to inquire about the identity, nature, or purpose of something.\n\n    Example 1: Pointing at an unknown object, a child asks, \"What is this?\"\n    Example 2: Confused by the instructions, she asked, \"What is this supposed to mean?\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Namastey"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Namastey\" : A respectful greeting in Hindi and Nepali, originating from Sanskrit. It is commonly used in India, Nepal, and other parts of South Asia.\n\n    Example 1: Upon meeting an elder, one says, \"Namastey.\"\n    Example 2:  \"Namastey,\" she greeted her yoga instructor.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Salaam"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Salaam\": An Arabic word meaning \"peace\" used as a greeting in many Muslim cultures.\n\n    Example 1: \"Salaam,\" he said, greeting his friend.\n    Example 2: They exchanged the traditional greeting, \"Salaam.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Salaam Alykum"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Salaam Alaikum\": An Arabic phrase meaning \"Peace be upon you,\" a common greeting in Muslim cultures.\n\n    Example 1:  A Muslim person might greet another with \"Salaam Alaikum.\"\n    Example 2: Upon entering the mosque, he said, \"Salaam Alaikum\" to those present.  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Desrimination"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Discrimination\": The unjust or prejudiced treatment of different categories of people or things, especially on the grounds of race, age, or sex.\n\n    Example 1: Racial discrimination is a significant societal problem.\n    Example 2:  Age discrimination can affect hiring practices.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Discrimination"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Discrimination\": The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.\n\n    Example 1: Racial discrimination is a significant societal problem.\n    Example 2: Age discrimination can affect hiring practices.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Discrition"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Discretion\": The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information.  The freedom to decide what should be done in a particular situation.\n\n    Example 1: \"She handled the sensitive matter with discretion.\"\n    Example 2: \"The judge has wide discretion in sentencing.\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Vola"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Vola\":  Italian for \"fly,\" it's the second-person singular imperative form of the verb \"volare.\"  It's also used as a command to \"go away\" or \"get lost.\"\n\n    Example 1: \"Vola, uccello!\" (Fly, bird!)\n    Example 2: \"Vola via!\" (Go away!)\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Assemble"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Assemble\": Gather together in one place for a common purpose.  Fit together the separate component parts of (a machine or other object).\n\n    Example 1: \"The students assembled in the auditorium.\"\n    Example 2: \"I need to assemble the new furniture.\"  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "auditorium"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Auditorium\": A large room or hall used for gatherings, typically for performances or lectures.\n\n    Example 1: \"The school play was held in the auditorium.\"\n    Example 2: \"The orchestra performed in a grand auditorium.\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "untill"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Until\":  Up to the point in time or the event mentioned.\n\n    Example 1: \"The store is open until midnight.\"\n    Example 2: \"Wait until I get back.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "What is a smartphone??"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Smartphone\": A mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded apps.\n\n    Example 1: \"Most smartphones have built-in cameras and GPS.\"\n    Example 2: \"You can access the internet on your smartphone.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Why"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Why\": For what reason or purpose.\n\n    Example 1: \"Why did you do that?\"\n    Example 2: \"I don't know why she's crying.\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Enter"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Enter\": Come or go into.\n\n    Example 1: \"Enter the building through the front door.\"\n    Example 2: \"Please enter your name and password.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Useful"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "\"Useful\": Able to be used for a practical purpose or in several ways.\n\n    Example 1: \"A Swiss Army knife has many useful tools.\"\n    Example 2: \"This information could be useful to you.\"  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Wonderful"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Wonderful: Inspiring delight, pleasure, or admiration; extremely good; marvelous.\n\n    Example 1: The view from the mountaintop was wonderful.\n    Example 2: She had a wonderful time at the party.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "The sky is blue"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Sky: The region of the atmosphere and outer space seen from the earth.\n\n    Example 1: The sky is blue.\n    Example 2: Birds fly in the sky.\nBlue: The color of the clear sky or the deep sea.\n\n    Example 1: The ocean is blue.\n    Example 2:  His eyes are blue.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "What"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "What: A question word used to inquire about something or to ask for information specifying something.\n\n    Example 1: What is your name?\n    Example 2: What time is it?\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Tip"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Tip: A small sum of money given to someone as a reward for a service. Also, a helpful piece of advice.\n\n    Example 1: He gave the waiter a generous tip.\n    Example 2: She shared a helpful tip for removing stains.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Usecase"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "Use Case: A specific situation or scenario in which a product or system is used.  It describes how a user interacts with the system to achieve a particular goal.  Often used in software development and design.\n\n    Example 1: A common use case for a banking app is transferring money between accounts.\n    Example 2:  The design team outlined several use cases to ensure the website met the needs of different user groups.\n"
+        ]
     }
 ]

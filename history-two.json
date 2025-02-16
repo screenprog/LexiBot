@@ -1,0 +1,182 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            "Assemble"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Assemble:**\n\n**Definition 1:** To gather together in one place for a common purpose.\n\n - **Example 1:** The students assembled in the auditorium for the morning assembly.\n - **Example 2:** The protesters assembled outside the government building.\n\n\n**Definition 2:** To fit together the separate component parts of (a machine or other object).\n\n - **Example 1:**  I assembled the new furniture according to the instructions.\n - **Example 2:** The factory workers assemble cars on an assembly line.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Lava"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Lava:** Molten rock that erupts from a volcano or fissure.  When it's below the Earth's surface, it's called magma.\n\n- **Example 1:** The lava flowed down the side of the volcano, destroying everything in its path.\n- **Example 2:**  The Hawaiian Islands were formed by lava flows over millions of years. \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Who are you?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Who are you?:** A question asking for someone's identity or information about themselves.\n\n- **Example 1:** A stranger approaches you and asks, \"Who are you?\"\n- **Example 2:** In a job interview, the interviewer might start by saying, \"Tell me a little about yourself. Who are you?\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Where are you? [[Hindi]]"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Where are you?:** A question asking about someone's location.\n\n- **Example 1:** If you can't find a friend, you might ask, \"Where are you?\"\n- **Example 2:** Calling someone on the phone, you could ask, \"Where are you? I was hoping to meet you.\"\n\n**[[Hindi]]:** \u0924\u0941\u092e \u0915\u0939\u093e\u0901 \u0939\u094b? (Tum kahan ho?)\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Where are you? [[Urdu]]"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Where are you?:** A question asking about someone's location.\n\n- **Example 1:** If you can't find a friend, you might ask, \"Where are you?\"\n- **Example 2:** Calling someone on the phone, you could ask, \"Where are you? I was hoping to meet you.\"\n\n**[[Urdu]]:** \u0622\u067e \u06a9\u06c1\u0627\u06ba \u06c1\u06cc\u06ba\u061f (Aap kahan hain?)\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Where are you?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Where are you?:** A question asking about someone's location.\n\n- **Example 1:** If you can't find a friend, you might ask, \"Where are you?\"\n- **Example 2:** Calling someone on the phone, you could ask, \"Where are you? I was hoping to meet you.\" \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Which one is good?"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Which one is good?:** A question asking for a preference or opinion on the quality of something between two or more options.  It implies a comparison is being made.\n\n- **Example 1:** Holding up two shirts, you might ask a friend, \"Which one is good?\"\n- **Example 2:** After tasting two different dishes at a restaurant, you could ask the waiter, \"Which one is good? I can't decide.\"\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Complex"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Complex:**\n\n**Definition 1 (Adjective):** Consisting of many different and connected parts. Not simple or easy to understand.\n\n- **Example 1:** The human brain is a complex organ.\n- **Example 2:**  Solving a complex mathematical equation can be challenging.\n\n**Definition 2 (Noun -  Mathematics):** A number that can be expressed in the form *a* + *bi*, where *a* and *b* are real numbers and *i* is the imaginary unit (the square root of -1).  Often used in advanced mathematics and engineering.\n\n- **Example 1:** 3 + 4i is a complex number.\n- **Example 2:** Complex numbers are used in electrical engineering to represent alternating currents.  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Beneath the amber glow of twilight, a lone willow stood by the shimmering lake, its branches whispering secrets to the breeze. A young girl named Elara often visited, her heart heavy with unspoken dreams. One evening, she found a tiny glass bottle nestled in the roots, its note reading, *\"Courage is the light that outlasts the darkest night.\"*   Inspired, Elara began to paint her dreams onto the sky, each stroke a promise to herself. The willow watched, its leaves applauding softly. And as the stars emerged, they mirrored her hopes, casting a luminous path toward tomorrow."
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "This is a short, evocative story and not a single word or sentence for which I can provide a definition and examples.  However, I can offer some explanations of phrases and imagery:\n\n* **Beneath the amber glow of twilight:** This describes the soft, warm, orange-yellow light of the sky just after sunset.  It sets a peaceful, slightly melancholic mood.\n* **Shimmering lake:** The word \"shimmering\" suggests a gentle, reflective surface, adding to the tranquil atmosphere.\n* **Whispering secrets to the breeze:** This is personification, giving the willow tree human-like qualities.  It creates a sense of mystery and the idea that nature holds hidden wisdom.  \n* **Heart heavy with unspoken dreams:**  This describes Elara's feeling of longing and the weight of her aspirations that she hasn't shared with anyone.\n* **Courage is the light that outlasts the darkest night:** This is a metaphor comparing courage to a light that persists even in the most difficult times. It's a message of hope and resilience.\n* **Paint her dreams onto the sky:** This is a figurative expression, meaning Elara is expressing her aspirations in some way, perhaps through art, writing, or simply by believing in them.\n* **Leaves applauding softly:** Another instance of personification, portraying the willow as supportive and encouraging of Elara's actions.\n* **Stars emerged, they mirrored her hopes:** This suggests that the vastness and beauty of the night sky reflect Elara's own potential and the possibility of her dreams coming true.  It's a hopeful and inspiring image.  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Beneath the amber glow of twilight, a lone willow stood by the shimmering lake, its branches whispering secrets to the breeze. A young girl named Elara often visited, her heart heavy with unspoken dreams. One evening, she found a tiny glass bottle nestled in the roots, its note reading, *\"Courage is the light that outlasts the darkest night.\"*   Inspired, Elara began to paint her dreams onto the sky, each stroke a promise to herself. The willow watched, its leaves applauding softly. And as the stars emerged, they mirrored her hopes, casting a luminous path toward tomorrow.[[Hindi]]"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "This is a short, evocative story, and not a single word or sentence. However, I can offer some explanations of phrases and imagery along with Hindi translations:\n\n* **Beneath the amber glow of twilight (\u0917\u094b\u0927\u0942\u0932\u093f \u0915\u0940 \u0905\u0902\u092c\u0930 \u091a\u092e\u0915 \u0915\u0947 \u0928\u0940\u091a\u0947 - Godhooli kee ambar chamak ke neeche):** This describes the soft, warm, orange-yellow light of the sky just after sunset. It sets a peaceful, slightly melancholic mood.\n* **Shimmering lake (\u091d\u093f\u0932\u092e\u093f\u0932\u093e\u0924\u0940 \u091d\u0940\u0932 - Jhilmilati jheel):** The word \"shimmering\" suggests a gentle, reflective surface, adding to the tranquil atmosphere.\n* **Whispering secrets to the breeze (\u0939\u0935\u093e \u0915\u094b \u0930\u093e\u091c\u093c \u092b\u0941\u0938\u092b\u0941\u0938\u093e\u0924\u0947 \u0939\u0941\u090f - Hawa ko raaz phusphusate hue):** This is personification, giving the willow tree human-like qualities. It creates a sense of mystery and the idea that nature holds hidden wisdom.\n* **Heart heavy with unspoken dreams (\u0905\u0928\u0915\u0939\u0947 \u0938\u092a\u0928\u094b\u0902 \u0938\u0947 \u092d\u093e\u0930\u0940 \u0926\u093f\u0932 - Ankahe sapno se bhari dil):** This describes Elara's feeling of longing and the weight of her aspirations that she hasn't shared with anyone.\n* **Courage is the light that outlasts the darkest night (\u0938\u093e\u0939\u0938 \u0935\u0939 \u092a\u094d\u0930\u0915\u093e\u0936 \u0939\u0948 \u091c\u094b \u0938\u092c\u0938\u0947 \u0905\u0902\u0927\u0947\u0930\u0940 \u0930\u093e\u0924 \u0938\u0947 \u092d\u0940 \u0906\u0917\u0947 \u0928\u093f\u0915\u0932 \u091c\u093e\u0924\u093e \u0939\u0948 - Sahas vah prakash hai jo sabse andheri raat se bhi aage nikal jata hai):** This is a metaphor comparing courage to a light that persists even in the most difficult times. It's a message of hope and resilience.\n* **Paint her dreams onto the sky (\u0905\u092a\u0928\u0947 \u0938\u092a\u0928\u094b\u0902 \u0915\u094b \u0906\u0915\u093e\u0936 \u092a\u0930 \u091a\u093f\u0924\u094d\u0930\u093f\u0924 \u0915\u0930\u0928\u093e - Apne sapno ko aakash par chitrit karna):** This is a figurative expression, meaning Elara is expressing her aspirations in some way, perhaps through art, writing, or simply by believing in them.\n* **Leaves applauding softly (\u092a\u0924\u094d\u0924\u0947 \u0927\u0940\u0930\u0947 \u0938\u0947 \u0924\u093e\u0932\u0940 \u092c\u091c\u093e\u0924\u0947 \u0939\u0941\u090f - Patte dheere se taali bajate hue):** Another instance of personification, portraying the willow as supportive and encouraging of Elara's actions.\n* **Stars emerged, they mirrored her hopes (\u0924\u093e\u0930\u0947 \u0909\u092d\u0930\u0947, \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0909\u0938\u0915\u0940 \u0906\u0936\u093e\u0913\u0902 \u0915\u094b \u092a\u094d\u0930\u0924\u093f\u092c\u093f\u0902\u092c\u093f\u0924 \u0915\u093f\u092f\u093e - Taare ubhare, unhone uski aashaon ko pratibimbhit kiya):** This suggests that the vastness and beauty of the night sky reflect Elara's own potential and the possibility of her dreams coming true. It's a hopeful and inspiring image.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Lava[[Hindi]]"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Lava (\u0932\u093e\u0935\u093e - Laava):** Molten rock that erupts from a volcano or fissure.  It is incredibly hot and glows brightly. When it cools and solidifies, it forms igneous rock.\n\n- **Example 1:** The volcano erupted, sending streams of lava down its slopes. (\u091c\u094d\u0935\u093e\u0932\u093e\u092e\u0941\u0916\u0940 \u092b\u091f \u0917\u092f\u093e, \u091c\u093f\u0938\u0938\u0947 \u0909\u0938\u0915\u0947 \u0922\u0932\u093e\u0928\u094b\u0902 \u092a\u0930 \u0932\u093e\u0935\u093e \u0915\u0940 \u0927\u093e\u0930\u093e\u090f\u0901 \u092c\u0939 \u0928\u093f\u0915\u0932\u0940\u0902\u0964 - Jwalamukhi phat gaya, jisse uske dhalanon par laava kee dharaen bah nikleen.)\n- **Example 2:** The lava flow destroyed everything in its path.  (\u0932\u093e\u0935\u093e \u092a\u094d\u0930\u0935\u093e\u0939 \u0928\u0947 \u0905\u092a\u0928\u0947 \u0930\u093e\u0938\u094d\u0924\u0947 \u092e\u0947\u0902 \u0906\u0928\u0947 \u0935\u093e\u0932\u0940 \u0939\u0930 \u091a\u0940\u091c \u0915\u094b \u0928\u0937\u094d\u091f \u0915\u0930 \u0926\u093f\u092f\u093e\u0964 - Laava pravah ne apne raste mein aane wali har cheez ko nasht kar diya.)  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Lava[[Spenish]]"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Lava (Lava):** Molten rock that erupts from a volcano or fissure. It is incredibly hot and glows brightly. When it cools and solidifies, it forms igneous rock.  The Spanish word for lava is the same as the English word.\n\n- **Example 1:** The volcano erupted, sending streams of lava down its slopes. (El volc\u00e1n entr\u00f3 en erupci\u00f3n, enviando corrientes de lava por sus laderas.)\n- **Example 2:** The lava flow destroyed everything in its path. (El flujo de lava destruy\u00f3 todo a su paso.)\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Hola"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Hola (\u0913\u0932\u093e - Ola):**  A Spanish greeting meaning \"hello\" or \"hi.\" It's an informal greeting, suitable for everyday use with friends, family, and people you know well.\n\n- **Example 1:**  You see a friend on the street and say, \"Hola, \u00bfc\u00f3mo est\u00e1s?\" (Hello, how are you?)\n- **Example 2:** Answering the phone, you might say, \"Hola, \u00bfqui\u00e9n habla?\" (Hello, who's speaking?)\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "What"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**What:**  A word used to ask a question, seeking information or clarification.  It can be used in several different ways.\n\n**Definition 1 (Interrogative Pronoun):**  Asking for information about something.\n\n- **Example 1:**  **What** is your name?\n- **Example 2:**  **What** time is it?\n\n\n**Definition 2 (Determiner):** Asking which thing or things.\n\n- **Example 3:**  **What** color is your car?\n- **Example 4:**  **What** books do you like to read?  \n\n\n**Definition 3 (Exclamation):** Expressing surprise, disbelief, or anger.\n\n- **Example 5:**  **What**! You won the lottery?\n- **Example 6:** **What** are you doing?!\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Where"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Where:** A word used to ask a question about location or position.\n\n- **Example 1:** **Where** are you going?\n- **Example 2:** **Where** is the library? \n"
+        ]
+    }
+]

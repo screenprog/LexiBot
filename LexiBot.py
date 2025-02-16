@@ -1,4 +1,5 @@
 import os
+import dotenv
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
@@ -11,7 +12,7 @@ def lexiBot(user_input: str ,history: list):
     "max_output_tokens": 8192,
     "response_mime_type": "text/plain",
   }
-
+  dotenv.load_dotenv()
   genai.configure(api_key=os.environ["GEMINI_API_KEY"])
   
   model = genai.GenerativeModel(

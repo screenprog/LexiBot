@@ -178,5 +178,41 @@
         "parts": [
             "**Where:** A word used to ask a question about location or position.\n\n- **Example 1:** **Where** are you going?\n- **Example 2:** **Where** is the library? \n"
         ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Together"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Together:** With each other; in one group or place; at the same time.  It can also imply collaboration or unity.\n\n\n- **Example 1:** We went to the movies **together**.\n- **Example 2:**  Mix the ingredients **together** in a bowl.  \n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "Ingredient"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**Ingredient:** A component part or element of something, often used in cooking to refer to the items used to make a dish.  Can also be used more broadly to describe a contributing factor to any outcome.\n\n\n**Definition 1 (Cooking):** Any of the foods or substances that are combined to make a particular dish.\n\n- **Example 1:** Flour, sugar, and eggs are some of the **ingredients** in a cake.\n- **Example 2:** The recipe lists all the necessary **ingredients**.\n\n\n**Definition 2 (General):**  A component part or element contributing to a whole.\n\n- **Example 3:** Hard work and dedication are key **ingredients** for success.\n- **Example 4:** Trust is an essential **ingredient** in a strong relationship.\n"
+        ]
+    },
+    {
+        "role": "user",
+        "parts": [
+            "General"
+        ]
+    },
+    {
+        "role": "model",
+        "parts": [
+            "**General:**  Widespread, common, or usual; not specific or specialized. It can also refer to a high-ranking military officer.\n\n\n**Definition 1 (Common/Usual):**  Applying to or true of the majority; not limited to one class or thing.\n\n   - **Example 1:** The **general** opinion is that the new law is a good thing.\n   - **Example 2:** There's a **general** feeling of unease in the community.\n\n**Definition 2 (Non-Specific):**  Lacking detail; giving only a broad outline.\n\n   - **Example 3:**  He gave a **general** description of the event.\n   - **Example 4:**  This is just a **general** guideline, not a strict rule.\n\n\n**Definition 3 (Military Rank):** A high-ranking officer in the army, air force, or marines.\n\n   - **Example 5:** The **General** commanded the troops.\n   - **Example 6:** She was promoted to the rank of **General**.\n"
+        ]
     }
 ]

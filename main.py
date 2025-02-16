@@ -12,7 +12,7 @@ def simulate_stream(model_response: str, chunk_size = 2, delay=0.02):
     
 
 
-
+st.title("LexiBot")
 history_file = "history-two.json"
 hc.history = hw.read_from_json(history_file)
 user_input = st.text_input("You: ")
